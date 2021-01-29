@@ -44,3 +44,4 @@ $(function(){
     reload()
   })
 })
+console.log("\n".concat(" %c EFL的云盘 "), "color: #fadfa3; background: #030307; padding:5px 0;")
